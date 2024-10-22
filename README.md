@@ -5,11 +5,17 @@
 ---
 
 ### About Me
-- 🌱 Learning and exploring **[New technologies]**.
-- 🎓 Graduated from **[Helwan Unversity]**.
-- 💼 Open to collaborations and job opportunities in **[React.js]**.
-- ⚡ Fun fact: **[I believe that hard work can beat talent.]**.
+<p align="left">
+ 🌱 Learning and exploring **[New technologies]**.
+ 🎓 Graduated from **[Helwan Unversity]**.
+ 💼 Open to collaborations and job opportunities in **[React.js]**.
+ ⚡ Fun fact: **[I believe that hard work can beat talent.]**.
+  </p>
+
   
+<p align="right">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer at work" width="400" />
+</p>
 ---
 
 ### 🛠️ Languages and Tools:
