@@ -4,15 +4,15 @@
 
 ---
 
-### About Me
+### 👨🏻‍💻 About Me
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1;">
     <p align="left">
-      - 🌱 Learning and exploring **[New technologies]**.<br>
-      - 🎓 Graduated from **[Helwan Unversity]**.<br>
-      - 💼 Open to collaborations and job opportunities in **[Frontend Developer (React.Js)]**.<br>
-      - ⚡ Fun fact: **[I believe that hard work can beat talent.]**.
+      - 🌱 Learning and exploring New technologies.<br>
+      - 🎓 Graduated from Helwan Unversity.<br>
+      - 💼 Open to collaborations and job opportunities in Frontend Development (React.Js).<br>
+      - ⚡ Fun fact: I believe that hard work can beat talent.
     </p>
   </div>
 
