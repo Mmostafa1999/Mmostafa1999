@@ -9,11 +9,10 @@
 
   <div style="flex: 1;">
     <p align="left">
-      - 🚀 Currently working on **[Your Current Project or Technology Focus]**.<br>
-      - 🌱 Learning and exploring **[New technologies you're learning]**.<br>
-      - 🎓 Graduated from **[Your University or Education]**.<br>
-      - 💼 Open to collaborations and job opportunities in **[Your Field of Work]**.<br>
-      - ⚡ Fun fact: **[Something Interesting About You]**.
+      - 🌱 Learning and exploring **[New technologies]**.<br>
+      - 🎓 Graduated from **[Helwan Unversity]**.<br>
+      - 💼 Open to collaborations and job opportunities in **[Frontend Developer (React.Js)]**.<br>
+      - ⚡ Fun fact: **[I believe that hard work can beat talent.]**.
     </p>
   </div>
 
@@ -24,7 +23,7 @@
   </div>
 
 </div>
----
+
 
 ### 🛠️ Languages and Tools:
 <p align="left">
