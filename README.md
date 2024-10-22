@@ -33,12 +33,7 @@
 
 ---
 
-### 🚀 Projects:
-- [**Project 1**](https://github.com/yourusername/project1) - A brief description of your project.
-- [**Project 2**](https://github.com/yourusername/project2) - A brief description of your project.
-- [**Project 3**](https://github.com/yourusername/project3) - A brief description of your project.
 
----
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=green)
