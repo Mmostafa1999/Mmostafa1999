@@ -5,25 +5,25 @@
 ---
 
 ### About Me
-### About Me
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        - 🚀 Currently working on **[Your Current Project or Technology Focus]**.<br>
-        - 🌱 Learning and exploring **[New technologies you're learning]**.<br>
-        - 🎓 Graduated from **[Your University or Education]**.<br>
-        - 💼 Open to collaborations and job opportunities in **[Your Field of Work]**.<br>
-        - ⚡ Fun fact: **[Something Interesting About You]**.
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer at work" width="400" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1;">
+    <p align="left">
+      - 🚀 Currently working on **[Your Current Project or Technology Focus]**.<br>
+      - 🌱 Learning and exploring **[New technologies you're learning]**.<br>
+      - 🎓 Graduated from **[Your University or Education]**.<br>
+      - 💼 Open to collaborations and job opportunities in **[Your Field of Work]**.<br>
+      - ⚡ Fun fact: **[Something Interesting About You]**.
+    </p>
+  </div>
+
+  <div style="flex: 1;">
+    <p align="right">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer at work" width="400" />
+    </p>
+  </div>
+
+</div>
 ---
 
 ### 🛠️ Languages and Tools:
