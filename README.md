@@ -5,14 +5,15 @@
 ---
 
 ### About Me
+### About Me
 <p align="left">
- 🌱 Learning and exploring **[New technologies]**.
- 🎓 Graduated from **[Helwan Unversity]**.
- 💼 Open to collaborations and job opportunities in **[React.js]**.
- ⚡ Fun fact: **[I believe that hard work can beat talent.]**.
-  </p>
+- 🚀 Currently working on **[Your Current Project or Technology Focus]**.<br>
+- 🌱 Learning and exploring **[New technologies you're learning]**.<br>
+- 🎓 Graduated from **[Your University or Education]**.<br>
+- 💼 Open to collaborations and job opportunities in **[Your Field of Work]**.<br>
+- ⚡ Fun fact: **[Something Interesting About You]**.
+</p>
 
-  
 <p align="right">
     <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer at work" width="400" />
 </p>
